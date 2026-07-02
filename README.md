@@ -122,7 +122,7 @@ npm run dev
 Unread message count is shown beside chats to indicate new messages that have not been opened.
 ## ☁️Deployment
 The application is deployed on Vercel:
-https://quick-chat-sand-six.vercel.app⁠�
+https://quick-chat-sand-six.vercel.app
 
 ## 🚀Future Improvements
 - Group chats
@@ -131,7 +131,7 @@ https://quick-chat-sand-six.vercel.app⁠�
   
 ## 👩‍💻Author
 Nikita Yadav
-GitHub: https://github.com/Nikita2312-yadav⁠�
+GitHub: https://github.com/Nikita2312-yadav
 
 
 
