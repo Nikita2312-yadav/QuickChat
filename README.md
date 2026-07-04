@@ -78,8 +78,7 @@ Create .env files in both client and server directories.
 ```Environment
 
 MONGODB_URI=your_mongodb_connection_string
-PORT=5000
-JWT_SECRET=your_jwt_secret
+
 
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
@@ -87,7 +86,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 ```
 ### Client.env
 ```Environment
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=""
 ```
 
 ## ▶️Run the application
